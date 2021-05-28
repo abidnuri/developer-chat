@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <p>Ok</p>
-      <h1>za rakib</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aliquid et tenetur culpa, itaque pariatur ex! Minus saepe debitis quisquam!</p>
+      <p>Rakib vai</p>
+      <p>Abid Nuri</p>
     </div>
   );
 }
